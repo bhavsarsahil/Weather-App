@@ -1,29 +1,30 @@
 Weather App
 
-Description
+Description :-
 The Weather App is a simple application developed in Kotlin that allows users to check the weather forecast for different locations.
 
-Features
+Features :-
 View current weather conditions
 Check the forecast for the next few days
 Search for weather information by location
 
-Technologies Used
+Technologies Used :-
 Kotlin
 Android Studio
 OpenWeatherMap API (or any other weather API you used)
 
-Installation
+Installation :-
 Clone the repository.
 Open the project in Android Studio.
 Build and run the project on an emulator or a physical device.
 
-Usage
+Usage :-
 Open the app.
 View the weather information for the selected location.
 
-Credits
+Credits :-
 Developer:Mr.SahilBhavsar
 API: OpenWeatherMap (or any other weather API you used)
-License
+
+License :- 
 This project is licensed under the MIT License - see the LICENSE file for details.
