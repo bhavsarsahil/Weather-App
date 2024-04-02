@@ -17,6 +17,7 @@ Installation :-
 Clone the repository.
 Open the project in Android Studio.
 Build and run the project on an emulator or a physical device.
+Otherwise :- download only app.zip in your phone and extract app.zip and install apk and use👍  
 
 Usage :-
 Open the app.
